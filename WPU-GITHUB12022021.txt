@@ -9,5 +9,6 @@ Proin eget dui sed enim bibendum porta eget tincidunt orci. Donec eget enim vita
 
 MongoDb
 Postgresql
+Oracle
 
 12022021
